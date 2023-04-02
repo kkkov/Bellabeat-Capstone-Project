@@ -4,7 +4,7 @@
 
 The following represents an overview of the key parts of a case study with which I was tasked at the final stage of the Google Data Analytics Professional Certificate. This project analyses data of more than 30 FitBit users in the span of a month in order to gain insights that would inform the growth and marketing strategies of Bellabeat. 
 
-_I invite you to explore my project in the .html file (with the visualziations) and the .Rmd file (where the code has not been run), for your convenience_
+_I invite you to explore my project on [GitHub Pages](https://kkkov.github.io/Bellabeat-Capstone-Project-in-R/), for your convenience._
 
 ### About the company
 
